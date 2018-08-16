@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MCatalogueUIUX</string>
+
+    <string name="navigation_drawer_open">Buka navigation drawer</string>
+    <string name="navigation_drawer_close">Tutup navigation drawer</string>
+
+    <string name="action_settings">Pengaturan</string>
+    <string name="halimatus_sakdiyah">Halimatus Sakdiyah</string>
+    <string name="email">mamoutdiyah@gmail.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_movie">Judul Film</string>
+    <string name="overview">Deskripsi Film</string>
+    <string name="dateRelease">Tanggal Rilis</string>
+    <string name="favorite">Favorit</string>
+    <string name="share">Bagikan</string>
+    <string name="description">Deskripsi</string>
+    <string name="fragment_upcoming">Fragment Mendatang</string>
+    <string name="home">Beranda</string>
+    <string name="now_playing">TERKINI</string>
+    <string name="upcoming">MENDATANG</string>
+    <string name="search">Cari</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="hRatings">1000 Ratings (7.5/10)</string>
+    <string name="rating">Peringkat</string>
+    <string name="hOverView">Overview-nya</string>
+    <string name="release">Rilis</string>
+</resources>

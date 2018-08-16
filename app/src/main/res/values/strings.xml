@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MCatalogueUIUX</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="halimatus_sakdiyah">Halimatus Sakdiyah</string>
+    <string name="email">mamoutdiyah@gmail.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_movie">Movie Title</string>
+    <string name="overview">Movie Overview</string>
+    <string name="dateRelease">Release Date</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="description">OverView</string>
+    <string name="fragment_upcoming">Fragment Upcoming</string>
+    <string name="home">Home</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="upcoming">UPCOMING</string>
+    <string name="search">Search</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="hRatings">1000 Ratings (7.5/10)</string>
+    <string name="rating">Rating</string>
+    <string name="hOverView">Overview-nya</string>
+    <string name="release">Release:</string>
+</resources>
